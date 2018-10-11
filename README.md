@@ -1,6 +1,6 @@
 # resume-template
 
-![screen](screen/sreen.png)
+![screen](screen/screen.png)
 
 Friggeri Resume Custom
 XeLaTeX Template
