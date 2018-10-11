@@ -1,5 +1,7 @@
 # resume-template
 
+![screen](screen/sreen.png)
+
 Friggeri Resume Custom
 XeLaTeX Template
 Version 1.3 (11/07/2018)
