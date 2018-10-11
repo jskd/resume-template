@@ -7,16 +7,16 @@ XeLaTeX Template
 
 # History
 
-- Version 1.3 (11/07/2018)
-  by Jérôme Skoda (contact@jeromeskoda.fr)
-  https://github.com/jskd/resume-template
+- Version 1.3 (11/07/2018)  
+  by Jérôme Skoda (contact@jeromeskoda.fr)  
+  https://github.com/jskd/resume-template  
 
-- Version 1.2 (3/5/15)
-  by Matthew Davis (matthew@mdavis.xyz)
-  https://github.com/mlda065/friggeri-letter
+- Version 1.2 (3/5/15)  
+  by Matthew Davis (matthew@mdavis.xyz)  
+  https://github.com/mlda065/friggeri-letter  
 
-- Original author:
-  Adrien Friggeri (adrien@friggeri.net)
+- Original author:  
+  Adrien Friggeri (adrien@friggeri.net)  
   https://github.com/afriggeri/CV
 
 # License
